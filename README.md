@@ -1,10 +1,5 @@
 # AOD — AI-Oriented Development
 
-> **This repo is not just a description of AOD/ADD — it is itself the implementation proof of the
-> methodology.** Its own content was produced by following the approach it defines: an intent spec
-> was framed, an agent drafted the docs against that spec, and a human reviewed and accepted the
-> result at the checkpoint. The repo is the artifact *and* the demonstration that the process works.
-
 **AOD** (AI-Oriented Development) — also referred to as **ADD** (AI-Driven Development) — is a
 software development paradigm built around treating AI agents as first-class participants in the
 development process, not as autocomplete for a human who does all the real work.
